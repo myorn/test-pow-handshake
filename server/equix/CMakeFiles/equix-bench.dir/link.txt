@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -rdynamic "CMakeFiles/equix-bench.dir/src/bench.c.o" "CMakeFiles/equix-bench.dir/hashx/src/hashx_thread.c.o" "CMakeFiles/equix-bench.dir/hashx/src/hashx_time.c.o" -o equix-bench  libequix.a hashx/libhashx.a 
